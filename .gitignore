@@ -1,0 +1,5 @@
+vendor
+index.*
+.env
+logs
+log

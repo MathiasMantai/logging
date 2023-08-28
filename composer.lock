@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "a26449f1e1934d83fc81a59823cc59b6",
+    "packages": [
+        {
+            "name": "m2/dotenv",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/MathiasMantai/dotenv.git",
+                "reference": "992a597d102cfbeebf1498b0b5402871dea8f23b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/MathiasMantai/dotenv/zipball/992a597d102cfbeebf1498b0b5402871dea8f23b",
+                "reference": "992a597d102cfbeebf1498b0b5402871dea8f23b",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "M2\\Dotenv\\": "src/"
+                }
+            },
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Mathias Mantai",
+                    "email": "mmantaibusiness@gmail.com"
+                }
+            ],
+            "description": "A lightweight dotenv file parser",
+            "support": {
+                "source": "https://github.com/MathiasMantai/dotenv/tree/main",
+                "issues": "https://github.com/MathiasMantai/dotenv/issues"
+            },
+            "time": "2023-08-28T13:52:21+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "m2/dotenv": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

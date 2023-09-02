@@ -1,6 +1,6 @@
 <?php
 
-namespace M2\Logger;
+namespace MMantai\Logger;
 
 trait LogUtil
 {

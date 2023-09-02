@@ -1,8 +1,8 @@
 <?php
 
-namespace M2\Logger;
+namespace MMantai\Logger;
 
-use M2\Logger\LogUtil;
+use MMantai\Logger\LogUtil;
 use Exception;
 
 /**

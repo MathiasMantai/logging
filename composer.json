@@ -1,9 +1,9 @@
 {
-    "name": "m2/logger",
+    "name": "mmantai/logger",
     "description": "A logging tool for file based or database bases logging",
     "autoload": {
         "psr-4": {
-            "M2\\Logger\\": "src/"
+            "MMantai\\Logger\\": "src/"
         }
     },
     "authors": [
